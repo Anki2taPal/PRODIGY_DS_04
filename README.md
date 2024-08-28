@@ -1,4 +1,4 @@
-<img src="https://github.com/AnkitaPal1012/PRODIGY_DS_03/blob/main/Screenshot%202024-08-28%20154733.png" height="500" width="900"/>
+<img src="https://github.com/AnkitaPal1012/PRODIGY_DS_04/blob/main/Screenshot%202024-08-28%20154819.png" height="500" width="900"/>
 
 # PRODIGY_DS_04
 This repository showcases the analysis and visualization of sentiment patterns in social media data as part of my data science internship at ProdigyInfotech. Task 4 involved examining Twitter data to understand public sentiment and opinions toward specific topics or brands.

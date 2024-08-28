@@ -7,7 +7,6 @@ This repository showcases the analysis and visualization of sentiment patterns i
 
 <ul><li>Analyzed the sentiment of tweets to categorize them as positive, negative,neutral,irrelevant.</li>
 <li>Data Visualization</li>
-<li>Created heatmaps to display sentiment distribution across different topics.</li>
-<li>Generated word clouds to visualize the most frequently mentioned words and phrases in the tweets.</li>
-<li>Implementation of a decision tree model to predict customer purchase behavior, with thorough evaluation using appropriate metrics.</li></ul>
+<li>Created heatmaps to display sentiment distrition across different topics.</li>
+<li>Generated word clouds to visualize the most frequently mentioned words and phrases in the tweets.</li></ul>
 
